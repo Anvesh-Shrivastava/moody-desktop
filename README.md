@@ -10,5 +10,5 @@ V_0.1 :
 2. Set different wallpapers for Multi Monitor, Lockscreen.
 
 Future.
-1. Set a taskbar Mood bar.
+1. Set a taskbar Mood bar(cloud?).
 2. Vallet mode..
