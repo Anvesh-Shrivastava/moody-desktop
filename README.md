@@ -12,3 +12,4 @@ V_0.1 :
 Future.
 1. Set a taskbar Mood bar(cloud?).
 2. Vallet mode..
+3. Transition when destop is visible from minimising application.
