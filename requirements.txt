@@ -1,0 +1,4 @@
+requests~=2.24.0
+pillow~=7.2.0
+screeninfo~=0.6.7
+pywin32~=227
