@@ -3,6 +3,8 @@
 This Project is to create a wallpaper app for Windows.
 I have not yet found an app which i can customise as per my liking so this is the result.
 
+Note: add the client_id from unsplash in config.py ( client_id )
+
 (Currently under progress..)
 
 V_0.1 : 
